@@ -16,12 +16,16 @@ namespace MVC_ModelBinding.Controllers {
 
 		[HttpPost]
 		public IActionResult Create(Movie movieData) {
-			if(ModelState.IsValid) {
+
+			if (ModelState.IsValid){
 
 				//add to database
+
 				return RedirectToAction("Index", "Home");
 			}
-			return View();
+			else{
+				return View();
+			}
 		}
 	}
 }

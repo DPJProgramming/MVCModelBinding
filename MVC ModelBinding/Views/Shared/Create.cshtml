@@ -1,42 +1,52 @@
-﻿
+﻿@model Movie
+@{
+    ViewData["Title"] = "Create a Movie"; //title of add movie page changed from layout page
+}
+<h1>Enter Movie Information</h1>
 <form method="post">
 	<div class="col-md-6">
-		<div class="form">
-			<label for="title">Title</label>
-			<input type="text" id="title" name="title" />
+		<div class="form-control">
+			<label class="control-label" asp-for="Title"></label>
+			<input asp-for="Title"/>
+			<span class="text-danger" asp-validation-for="Title"></span>
 		</div>
+		<br />
+		
+
+        <div class="form-control">
+            <label class="control-label" asp-for="Genre"></label>
+            <select asp-for="Genre">
+                <option value=""></option>
+                <option value="horror">Horror</option>
+                <option value="comedy">Comedy</option>
+                <option value="science_fiction">Science Fiction</option>
+                <option value="drama">Drama</option>
+            </select>
+            <span class="text-danger" asp-validation-for="Genre"></span>
+        </div>
 		<br />
 
 
-		<div class="form">
-			<label for="genre">Genre</label>
-			<select id="genre" name="genre">
-				<option value="horror">Horror</option>
-				<option value="comedy">Comedy</option>
-				<option value="science_fiction">Science Fiction</option>
-				<option value="drama">Drama</option>
-			</select>
-		</div>
+        <div class="form-control">
+            <label class="control-label" asp-for="Director"></label>
+            <input asp-for="Director" />
+            <span class="text-danger" asp-validation-for="Director"></span>
+        </div>
 		<br />
 
-
-		<div class="form">
-			<label for="director">Director</label>
-			<input type="text" id="director" name="director" />
-		</div>
+        <div class="form">
+            <label class="control-label" asp-for="Price"></label>
+            <input asp-for="Price" />
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
 		<br />
 
-		<div class="form">
-			<label for="price">Price</label>
-			<input type="text" id="price" name="price" />
-		</div>
-		<br />
-
-		<input type="submit" value="Add Movie" />
+		<input class="btn btn-primary" type="submit" value="Add Movie" />
 	</div>
 
 </form>
 
 @section Scripts{
-	<partial name="_ValidationScriptsPartial" />
+    <!--makes validation faster-->
+    <partial name="_ValidationScriptsPartial" />
 }
