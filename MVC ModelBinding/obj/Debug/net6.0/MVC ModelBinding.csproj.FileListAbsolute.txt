@@ -1,0 +1,31 @@
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.csproj.AssemblyReference.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.AssemblyInfoInputs.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.AssemblyInfo.cs
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.csproj.CoreCompileInputs.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.RazorAssemblyInfo.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.RazorAssemblyInfo.cs
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\appsettings.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.staticwebassets.runtime.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.exe
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.deps.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.runtimeconfig.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.dll
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\bin\Debug\net6.0\MVC ModelBinding.pdb
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.MVC ModelBinding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC ModelBinding.props
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC ModelBinding.props
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC ModelBinding.props
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\scopedcss\bundle\MVC ModelBinding.styles.css
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\scopedcss\projectbundle\MVC ModelBinding.bundle.scp.css
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.dll
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\refint\MVC ModelBinding.dll
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.pdb
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\MVC ModelBinding.genruntimeconfig.cache
+C:\Users\chees\OneDrive\Desktop\School\Net Web 219\Assignments\MVC ModelBinding\MVC ModelBinding\obj\Debug\net6.0\ref\MVC ModelBinding.dll
