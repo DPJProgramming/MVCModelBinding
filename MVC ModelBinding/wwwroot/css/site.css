@@ -14,5 +14,10 @@ html {
 }
 
 body {
-  margin:auto;
+    border:dashed;
+    margin:auto;
+}
+
+h1 {
+    text-align:center;
 }
